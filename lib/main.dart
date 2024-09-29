@@ -1,3 +1,4 @@
+import 'package:first_mobile/basic_widgets/image_widget.dart';
 import 'package:first_mobile/basic_widgets/text_widget.dart';
 import 'package:flutter/material.dart';
 
@@ -82,7 +83,10 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const MyTextWidget(),
+            const MyImageWidget(),
+
+            // const MyTextWidget(),
+
             // Text(
             //   'Nama : Reza Kurniawan',
             // ),

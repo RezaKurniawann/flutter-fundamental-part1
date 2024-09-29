@@ -1,5 +1,5 @@
-# text_widget
+# image_widget
 
-Text Widget
+Image Widget
 
-![Screenshot text_widget](images/textwidget.png)
+![Screenshot image_widget](images/imagewidget.png)
