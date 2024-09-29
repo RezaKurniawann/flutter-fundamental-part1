@@ -1,5 +1,5 @@
-# hello_world
+# text_widget
 
-A new Flutter Project
+Text Widget
 
-![Screenshot hello_world](images/01.png)
+![Screenshot text_widget](images/textwidget.png)
